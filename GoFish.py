@@ -50,7 +50,7 @@ while pchoice != "quit":
     if ccards == []:
         print("Computer wins!")
         break
-    if cpile = 0
+    if cpile == 0:
         print("No more cards!")
         break
     pchoice = input("Choose a card, (like Two of Spades) or quit. ")
